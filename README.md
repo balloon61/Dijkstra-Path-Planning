@@ -25,7 +25,7 @@ youtube link(without clearance):
 https://www.youtube.com/watch?v=6XNAZqUHV_k&ab_channel=Po-LunChen
 youtube link(with clearance):
 https://www.youtube.com/watch?v=FFWK1QPzif8&ab_channel=Po-LunChen
-# Note that it show the path at 1:35
+# Note that the second video shows the path at 1:35
 
 
 
