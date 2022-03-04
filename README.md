@@ -16,11 +16,16 @@ After successfuly enter the initial pose, do the same thing in goal pose.
 
 The code will find the whether it has a solution first, if it has one, then visuallize the process.
 
+Github:
+git clone https://github.com/balloon61/Dijkstra.git
 
-
-
-
-
+Video:
+The video is too large (10GB), so I provided a youtube link
+youtube link(without clearance):
+https://www.youtube.com/watch?v=6XNAZqUHV_k&ab_channel=Po-LunChen
+youtube link(with clearance):
+https://www.youtube.com/watch?v=FFWK1QPzif8&ab_channel=Po-LunChen
+# Note that it show the path at 1:35
 
 
 
