@@ -3,7 +3,7 @@ Dijkstra Path Planning
 
 #Require Lib:cv2, numpy, queue, heapq, scipy.signal, 
 #cd to LOCATION which include the file
-#python3 main.py
+#python3 Dijkstra-pathplanning-polun-chen.py
 
 #Enter the initial pose
 (x, y)
