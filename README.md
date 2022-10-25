@@ -12,7 +12,7 @@ python3 Dijkstra-pathplanning-polun-chen.py
 (x, y) = 10 20
 
 ### Explaination
-If the point is at the obstacle's pose, or too close to the obstacle (clearance 5 mm)
+The code will split the input string for you. If the point is at the obstacle's pose, or too close to the obstacle (clearance 5 mm)
 then you will need to enter again.
 After successfuly enter the initial pose, do the same thing in goal pose.
 
