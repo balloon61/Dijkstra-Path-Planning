@@ -22,7 +22,6 @@ The code will find the whether it has a solution first, if it has one, then visu
 
 
 ## Video:
-The video is too large (10GB), so I provided a youtube link
 youtube link(without clearance):
 https://www.youtube.com/watch?v=6XNAZqUHV_k&ab_channel=Po-LunChen
 youtube link(with clearance):
